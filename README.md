@@ -12,8 +12,11 @@ Company wants to automate the loan eligibility process (real time) based on cust
 
 <a name="data"></a>
 ## 2. Data
-Company provided a partial data set.<br/>
+Company provided a partial (test) data set.<br/>
 https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
+<a name="conc"></a>
+## 2. Conclusions
+Employing a Linear Regression Model, we were able to predict with 98% accuracy 
 
 
 
